@@ -8,3 +8,6 @@ BUSINESS REQUIREMENT
 - Connect the Databricks to storage account
 - BUILD one aggregate table for the reporting with all the Business related KPI
 - Build dashboard using Power BI
+
+  ![Flow_chart](https://github.com/user-attachments/assets/3c35a3c1-a05b-410a-9c6b-e9eec867839d)
+
